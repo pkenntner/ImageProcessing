@@ -1,0 +1,27 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ABitmap_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002Econfig_003FJetBrains_003FRider2026_002E1_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003Fb997a7e942594ab481c4515396ad38de66f50_003Fd7_003F4cbe9c27_003FBitmap_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=129f6804_002D0df1_002D47e0_002D92b0_002D942457d56a10/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetPixels_ReturnCorrectColor #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::B2373F12-562E-4EB0-8521-F99E86C90864::net10.0::ImgProcessingBL.Test.ImgFiltersTest.GetPixels_ReturnCorrectColor&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7312cbf9_002D3da2_002D477b_002D840c_002Db00cf0ab6239/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetPixels_ReturnCorrectColor #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::B2373F12-562E-4EB0-8521-F99E86C90864::net10.0::ImgProcessingBL.Test.ImgFiltersTest.GetPixels_ReturnCorrectColor&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9711e56e_002D3bc2_002D4a0f_002Db1e3_002Df264456569b8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetPixels_ReturnCorrectColor" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::B2373F12-562E-4EB0-8521-F99E86C90864::net10.0::ImgProcessingBL.Test.ImgFiltersTest.GetPixels_ReturnCorrectColor&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a58bb16a_002D6376_002D45b9_002D9f8a_002D6ba82ed6ea2a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetPixels_ReturnCorrectColor #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::B2373F12-562E-4EB0-8521-F99E86C90864::net10.0::ImgProcessingBL.Test.ImgFiltersTest.GetPixels_ReturnCorrectColor&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ba25b345_002Dabbd_002D4df1_002D8e30_002D3ee8908e85d0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetPixels_ReturnCorrectColor #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::B2373F12-562E-4EB0-8521-F99E86C90864::net10.0::ImgProcessingBL.Test.ImgFiltersTest.GetPixels_ReturnCorrectColor&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
