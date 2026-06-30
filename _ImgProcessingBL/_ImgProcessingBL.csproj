@@ -7,6 +7,8 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <PackageReference Include="Aspose.Drawing" Version="26.6.0" />
+      <PackageReference Include="Aspose.Drawing.Common" Version="26.6.0" />
       <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.3">
         <PrivateAssets>all</PrivateAssets>
         <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
